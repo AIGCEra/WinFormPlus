@@ -14,4 +14,4 @@ Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/W
 <h2 align=center><p>(2)Open "program.cs" file.</p> <p align=left><i>Modify main function</i>: replace "Application.Run" with:<p align=center>Universe.WebRT.Run</p></p>
 </h2>
 
-<h1 align=center>Building WinForms Applications that Support Web Application Ecology and Have Unlimited Docking Capabilities</h1>
+<h1 align=center>Building WinForms Applications that Support <br/><i>Web Application Ecology</i> and have <i>Unlimited Docking Capabilities</i></h1>
