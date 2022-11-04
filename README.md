@@ -1,6 +1,6 @@
 <div align=center>
 
-# Enable your WinForm Application to Support <i>Web Runtime</i>
+# Enable Your <i>WinForm Application</i> <br/>to Support <i><ins>Web Runtime</ins></i>
   
 ## (1)Prepare a C# WinForm Project<br>(create a new Project, or open an existing Project)
 </div>
