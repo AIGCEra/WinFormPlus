@@ -11,7 +11,7 @@ Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/W
 
 <div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/183294437-cf6a3f96-69ed-4274-936c-ba963e21537d.jpg" width="100%"/></div>
 
-<h2 align=center><p>(2)Open "program.cs" file.</p> <p align=left><i>Modify main function</i>: replace "Application.Run" with:<p align=center>Universe.WebRT.Run</p></p>
-</h2>
+<h3 align=center><p>(2)Open "program.cs" file.</p> <p align=left><i>Modify main function</i>: replace "Application.Run" with:<p align=center>Universe.WebRT.Run</p></p>
+</h3>
 
 <h2 align=center>Building WinForm Applications that <br/></i>Have <i>Unlimited Docking Abilities</i> and <i>Support Web Content Ecology</h2>
