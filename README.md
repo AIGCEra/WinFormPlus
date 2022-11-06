@@ -18,4 +18,4 @@ Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/W
 
 <h3>
 
-We borrowed two aerospace concepts from wikipedia: [Docking](https://en.wikipedia.org/wiki/Docking_and_berthing_of_spacecraft#Docking) and [Berthing](https://en.wikipedia.org/wiki/Docking_and_berthing_of_spacecraft#Berthing).</h3>
+We borrowed two aerospace concepts from wikipedia: [Docking](https://en.wikipedia.org/wiki/Docking_and_berthing_of_spacecraft#Docking) and [Berthing](https://en.wikipedia.org/wiki/Docking_and_berthing_of_spacecraft#Berthing). When we think that each WinForm object is a huge spacecraft, an interesting phenomenon is that while the WinForm object has the docking ability with other types of WinForm objects, it also has unlimited berthing ability.</h3>
