@@ -14,4 +14,8 @@ Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/W
 <h3 align=center><p>(2)Open "program.cs" file.</p> <p align=left><i>Modify main function</i>: replace "Application.Run" with:<p align=center>Universe.WebRT.Run</p></p>
 </h3>
 
-<h2 align=center>Building WinForm Applications that <br/></i>Have <i>Unlimited Docking Abilities</i> and <i>Support Web Content Ecology</h2>
+<h2 align=center>Building WinForm Applications that <br/></i>Have <i>Unlimited Docking Abilities</i> and <i>Support Web Content Ecology</i></h2>
+
+<h3>
+
+We borrowed two aerospace concepts from wikipedia: [Docking](https://en.wikipedia.org/wiki/Docking_and_berthing_of_spacecraft#Docking) and [Berthing](https://en.wikipedia.org/wiki/Docking_and_berthing_of_spacecraft#Berthing).</h3>
