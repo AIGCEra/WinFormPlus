@@ -19,3 +19,9 @@ Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/W
 <h3>
 
 We borrowed two aerospace concepts from wikipedia: [_Docking_](https://en.wikipedia.org/wiki/Docking_and_berthing_of_spacecraft#Docking) and [_Berthing_](https://en.wikipedia.org/wiki/Docking_and_berthing_of_spacecraft#Berthing). When we think that each WinForm is a huge spacecraft, a very important fact is:： while the WinForm has unlimited docking ability with other types of WinForms, it also has unlimited berthing ability.</h3>
+
+<h2 align=center>Dynamic <i>Docking</i></h2>
+<h3 align=left>If there is a UserControl object with a variable size in a WinForm object, and the value of the Dock property of the object is "DockFill" or "Dock FillNone", then the object will provide an unlimited number of WinForms Docking Port.</h3>
+
+<h2 align=center>Dynamic <i>Berthing</i></h2>
+<h3 align=left>If there is a UserControl object with a variable size in a WinForm object, and the value of the Dock property of the object is "DockFill" or "Dock FillNone", then the object will provide an unlimited number of WinForms Docking Port.</h3>
